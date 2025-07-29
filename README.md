@@ -47,14 +47,13 @@ PixelIntensityTransformations/
 
 | Operation             | Image Output                         | Histogram                          |
 |----------------------|---------------------------------------|-------------------------------------|
-| Contrast Stretch      | ![FCS](output/fcs.jpg)                | ![FCS Hist](output/fcs_hist.jpg)    |
-| Image Negative        | ![Neg](output/image_negative.jpg)     | ![Neg Hist](output/image_negative_hist.jpg) |
-| Log Transform         | ![Log](output/log_transform.jpg)      | ![Log Hist](output/log_transform_hist.jpg) |
-| Histogram Flattening  | ![Flat](output/hist_flat.jpg)         | ![Flat Hist](output/hist_flat_hist.jpg) |
-| Histogram Shaping     | ![Shape](output/hist_shaping.jpg)     | ![Shape Hist](output/hist_shaping_hist.jpg) |
-| Histogram Matching    | ![Match](output/hist_matching.jpg)    | ![Match Hist](output/hist_matching_hist.jpg) |
+| Contrast Stretch      | ![FCS](output/fcs.jpg)                | ![FCS Hist](output/fcs_hist.png)    |
+| Image Negative        | ![Neg](output/image_negative.jpg)     | ![Neg Hist](output/image_negative_hist.png) |
+| Log Transform         | ![Log](output/log_transform.jpg)      | ![Log Hist](output/log_transform_hist.png) |
+| Histogram Flattening  | ![Flat](output/hist_flat.jpg)         | ![Flat Hist](output/hist_flat_hist.png) |
+| Histogram Shaping     | ![Shape](output/hist_shaping.jpg)     | ![Shape Hist](output/hist_shaping_hist.png) |
+| Histogram Matching    | ![Match](output/hist_matching.jpg)    | ![Match Hist](output/hist_matching_hist.png) |
 
----
 
 ## ▶️ How to Run
 
